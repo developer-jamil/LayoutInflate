@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Layout Inflater Demo</string>
+
+    <string name="lorem_text">This is a lorem spam text. This is a lorem spam text. This is a lorem spam text.  This is a lorem spam text. This is a lorem spam text. This is a lorem spam text. This is a lorem spam text. This is a lorem spam text.
+    This is a lorem spam text. This is a lorem spam text. This is a lorem spam text.  This is a lorem spam text. This is a lorem spam text. This is a lorem spam text. This is a lorem spam text. This is a lorem spam text.
+    This is a lorem spam text. This is a lorem spam text. This is a lorem spam text.  This is a lorem spam text. This is a lorem spam text. This is a lorem spam text. This is a lorem spam text. This is a lorem spam text.
+    This is a lorem spam text. This is a lorem spam text. This is a lorem spam text.  This is a lorem spam text. This is a lorem spam text. This is a lorem spam text. This is a lorem spam text. This is a lorem spam text.
+    This is a lorem spam text. This is a lorem spam text. This is a lorem spam text.  This is a lorem spam text. This is a lorem spam text. This is a lorem spam text. This is a lorem spam text. This is a lorem spam text.</string>
+
+</resources>
